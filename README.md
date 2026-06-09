@@ -72,8 +72,7 @@ The application features a modern healthcare dashboard with interactive visualiz
 ---
 
 ### Prediction Result
-
-screenshots/result_page.png
+![alt text](screenshots/result_page.png)
 
 ---
 
