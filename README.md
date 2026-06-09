@@ -53,15 +53,27 @@ The application features a modern healthcare dashboard with interactive visualiz
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![alt text](screenshots/HP1.png)
+
+---
+
+![alt text](screenshots/HP2.png)
+
+---
 
 ### Patient Information
 
-![Prediction](screenshots/prediction.png)
+![alt text](screenshots/P_info_p1.png)
+
+---
+
+![alt text](screenshots/P_info_p2.png)
+
+---
 
 ### Prediction Result
 
-![Result](screenshots/result.png)
+screenshots/result_page.png
 
 ---
 
